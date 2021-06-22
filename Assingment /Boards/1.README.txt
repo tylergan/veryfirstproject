@@ -1,0 +1,25 @@
+Author: Tyler Gan
+Date: 22 May 2020
+Purpose: These are the boards that you can use to play the game.
+
+Instrucions:
+    1. Place your desired board into the same file directory as your run, game, game_parser, grid and solver file.
+    2. Follow usage instructions to start the game or solver!
+
+For testing, please refer to the following.
+1) For test_parser and test_grid:
+    1. board_error_many_ends.txt
+    2. board_error_many_starts.txt
+    3. board_error_no_start.txt
+    4. board_error_uneven_pads.txt
+    5. board_error_unknown_elem.txt
+
+2) For E2E tests (note these are all already in their respective config files):
+    1. board_simple.txt
+    2. board_medium.txt
+    3. board_hard.txt
+    4. board_super_hard.txt
+    5. board_custom3.txt
+    6. board_custom4.txt
+    7. board_custom_s_e.txt
+    8. board_custom_weird_teleport.txt

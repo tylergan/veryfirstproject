@@ -1,0 +1,3 @@
+### TEST CASE 6 ###
+Ensures that the output is correct when the player loses because they walk into the fire without enough water buckets in the hard board level; this is positive case 
+testing.

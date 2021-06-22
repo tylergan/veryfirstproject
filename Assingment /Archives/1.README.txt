@@ -1,0 +1,8 @@
+Author: Tyler Gan
+Date: 22 May 2020
+Purpose: This is all the different algorithms I created for the solver. 
+
+Note: 
+    • solver2 is exactly the same as my original solver, however it imports the queue module if you are interested in that!
+    • solver_path was initial inspiration from a YouTuber called TechWithTim
+    • solver_class was an attempt to create a huge binary tree of potential moves. However, this involved the use of importing disallowed modules, such as deepcopy.

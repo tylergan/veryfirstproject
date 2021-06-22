@@ -1,0 +1,3 @@
+### TEST CASE 7 ###
+We are testing to see if the wait function (e) works on our teleport pads. Additionally, we also test to see whether when we walk into a wall while on a teleporting pad, 
+we get teleported to the other teleport pad (which should not happen); this is positive case testing.

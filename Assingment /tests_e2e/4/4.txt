@@ -1,0 +1,9 @@
+### TEST CASE 4 ###
+Checking to see if the output is correct when the player enters an incorrect command and quits the game. We are using the simple board for this test case. We are testing 
+the following test cases:
+1. Incorrect input
+2. Upper-case input
+3. No input
+4. The 'q' command
+
+This is a combination of negative and positive case testing.

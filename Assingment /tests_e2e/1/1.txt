@@ -1,0 +1,2 @@
+### TEST CASE 1 ###
+This test case is checking to see if the output is correct where the player is going straight from the start to end on the simple board; this is positive case testing.

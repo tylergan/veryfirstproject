@@ -1,0 +1,3 @@
+### TEST CASE 9 ###
+Another board that has no walls and provides the player the ability to leave the board whereever. Hence, this test is to ensure that when the player tries to leave 
+the board, the wall.step() instance method is initiated. Additionally, this is testing the "one move" end print statement; this is edge and positiev case testing.

@@ -1,0 +1,3 @@
+### TEST CASE 8 ###
+We are testing an important edge case: going out of bounds. This board has no walls and provides the player the ability to leave the board whereever. Hence, this test
+is to ensure that when the player tries to leave the board, the wall.step() instance method is initiated; this is edge and positiev case testing.

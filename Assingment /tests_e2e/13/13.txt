@@ -1,0 +1,2 @@
+### TEST CASE 13 ###
+An edge case which test for teleportations that send you out of the map.
